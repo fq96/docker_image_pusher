@@ -7,4 +7,5 @@
 #bitnami/os-shell:12-debian-12-r38
 #bitnami/mariadb:11.4.5-debian-12-r4
 #bitnami/mysqld-exporter:0.16.0-debian-12-r10
-mysql
+#mysql
+metrics-server:v0.7.2
