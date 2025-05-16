@@ -9,4 +9,5 @@
 #bitnami/mysqld-exporter:0.16.0-debian-12-r10
 #mysql
 #registry.k8s.io/metrics-server/metrics-server:v0.7.2
-nginx:1.18
+#nginx:1.18
+k8s.gcr.io/metrics-server/metrics-server:v0.6.4
